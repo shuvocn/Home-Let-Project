@@ -1,0 +1,36 @@
+body {
+}
+
+.container2{
+    width:960px;
+    margin:0 auto;
+}
+
+.header5{
+    width:auto;
+    height:100px; 
+}
+.header3{
+    width:auto;
+    position:absolute;
+    height:100px;
+    padding-left:800px;
+}
+.menu2{
+    width:auto;
+    height:50px;
+    background-color:flavor;
+}
+.content2{
+    width:78%;
+}
+.submit2
+{
+    font-size:16px;
+    color:#ffffff;
+    background-color:#40A46F;    
+}
+.content4
+{
+    width:100%;
+    }
